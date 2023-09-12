@@ -16,27 +16,7 @@ body {
     color: #333;
     background-color: #fff;
 }
- .container {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-            align-items: flex-start;
-            margin: 20px;
-        }
-
-        .column {
-            flex: 1;
-            padding: 10px;
-        }
-
-        .button {
-            background-color: #007BFF;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 5px;
-            cursor: pointer;
-            margin-top: 10px;
+ n-top: 10px;
         }
 .sect {
     margin: 0;
